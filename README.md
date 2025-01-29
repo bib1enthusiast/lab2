@@ -1,2 +1,2 @@
-# 932101.Pshonkin.Vadim.lab№2
-Проверка Commit чере VS code
+# Povshednyy_Daniil_932203
+Проверка Commit через VS code
